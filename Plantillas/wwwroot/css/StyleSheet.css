@@ -1,0 +1,12 @@
+﻿body {
+
+}
+.altura300{
+    height:300px;
+}
+.oculto{
+    display:none;
+}
+.mostrar{
+    display: block;
+}
